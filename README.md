@@ -9,3 +9,6 @@ I created a mini CRM for my opportunities using [Google Tables](https://tables.a
 I don't share my table with my team or manager since each of us track our updates differently, but by using a bot I can share just whats important and top of mind i.e. Where we are now. To set the bot up, simply choose "Bots" on the right hand side of the tool bar and choose/fill in the appropriate details. See the screenshot below to see how I've configured my bot.
 
 <img width="356" alt="Screenshot 2024-03-03 at 2 23 39 PM" src="https://github.com/hasarahman/notes/assets/155875846/fc6cc076-28fa-4652-82a0-1f85b88b8872">
+
+
+DISCLAIMER: Ensure that your company's IT team is okay with you using the web application Tables so you don't run into compliance/security issues.
