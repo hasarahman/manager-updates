@@ -12,4 +12,4 @@ I don't share my table with my team or manager since each of us track our update
 
 
 
-DISCLAIMER: Ensure that your company's IT team is okay with you using the web application [Google Tables](https://tables.area120.google.com/) so you don't run into compliance/security issues.
+DISCLAIMER: Ensure that your company's IT team approves the use of the web application [Google Tables](https://tables.area120.google.com/) so you don't run into compliance/security issues.
